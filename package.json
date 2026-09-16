@@ -1,7 +1,6 @@
 {
   "name": "imperious-mortality-promo",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://RichardtOlsen-dk.github.io/imperious-mortality-press-site/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",

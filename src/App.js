@@ -96,7 +96,7 @@ Imperious Mortality are now prepared to release their debut full length, set to 
           <p class="">
             With Abyss of Uncreation, Imperious Mortality unleash their most complete and uncompromising work to date. Set for release October 2nd through New Standard Elite, the debut full-length pushes the Danish act's signature blend of razor-sharp riffing, merciless blastbeats and crushing grooves into darker, more destructive territory — a descent into chaos built on relentless intensity, precision and total devastation.
 <br/><br/>
-Across its songs, the band expand on the foundation laid by their previous releases, delivering a more focused, fully realized sound without sacrificing the raw aggression that defined them from the start. Adding further weight to the record, Abyss of Uncreation features members of Danish extreme-metal act Maximize Bestiality, deepening the album's ties to the darker side of the BDM underground.
+Across eight songs, the band expand on the foundation laid by their previous releases, delivering a more focused, fully realized sound without sacrificing the raw aggression that defined them from the start. Adding further weight to the record, Abyss of Uncreation features members of German slamming death metal band Maximize Bestiality, deepening the album's ties to the more violent side of the BDM underground.
           </p>
           <p class="text-center px-5">
             <a href="https://drive.google.com/drive/folders/1SumOYe894EmG-GXplNIqDS8Mp2yRn46c?usp=drive_link" target="_blank"> digital download (wav) </a>
