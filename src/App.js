@@ -1,19 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
+import CryptoJS from 'crypto-js';
 import { useState } from "react";
 
 export default function App() {
 
 
-  const PASSPHRASE = "abyss-10-02";
+  const PASSPHRASE = "8e2e10de9c22088ff03318569e65e5fe";
   const [passphrase, setPassphrase] = useState("");
   const [unlocked, setUnlocked] = useState(false);
   const [error, setError] = useState("");
 
   function unlock(e) {
     e.preventDefault();
-
-    if (passphrase === PASSPHRASE) {
+    if (CryptoJS.MD5(passphrase).toString() === PASSPHRASE) {
       setUnlocked(true);
       setError("");
     } else {
@@ -138,7 +138,7 @@ Across its songs, the band expand on the foundation laid by their previous relea
           </div>
         </div>
       </div>
-      
+
       <div>
       </div>
     </div>
