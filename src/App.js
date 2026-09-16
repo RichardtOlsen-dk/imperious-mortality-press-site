@@ -94,7 +94,7 @@ Imperious Mortality are now prepared to release their debut full length, set to 
         </div>
         <div>
           <p class="">
-            With Abyss of Uncreation, Imperious Mortality unleash their most complete and uncompromising work to date. Set for release October 2nd through New Standard Elite, the debut full-length pushes the Danish act's signature blend of razor-sharp riffing, merciless blastbeats and crushing grooves into darker, more destructive territory — a descent into chaos built on relentless intensity, precision and total devastation.
+            With Abyss of Uncreation, Imperious Mortality unleash their most complete and uncompromising work to date. Set for release October 2nd through New Standard Elite, the debut full-length pushes the Danish act's signature blend of razor-sharp riffing, merciless blastbeats and crushing grooves into darker, more destructive territory — a descent into chaos built on relentless intensity, precision and total devastation. The album also introduces new vocalist Nima Hajir Azad who delivers gutturals from the blackest depths.
 <br/><br/>
 Across eight songs, the band expand on the foundation laid by their previous releases, delivering a more focused, fully realized sound without sacrificing the raw aggression that defined them from the start. Adding further weight to the record, Abyss of Uncreation features members of German slamming death metal band Maximize Bestiality, deepening the album's ties to the more violent side of the BDM underground.
           </p>
